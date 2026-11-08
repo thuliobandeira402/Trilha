@@ -35,8 +35,9 @@ Para resolver isso, fiz esse miniprojeto que resolve essa questão, fornecendo u
 
 1. **Clone o repositório ou baixe o arquivo:**
    ```bash
-   git clone [https://github.com/thuliobandeira402/Trilha.git](https://github.com/thuliobandeira402/Trilha.git)
-   cd Trilha/Aula3-Python-miniprojeto
+   git clone https://github.com/thuliobandeira402/Trilha.git
+   cd Trilha/Trilha/Aula3-Python-miniprojeto
+   python3 gestordetarefas.py
    ```
 
 2. **Execute o script pelo terminal:**
